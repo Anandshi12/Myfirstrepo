@@ -4,6 +4,3 @@ this
 git vb k
 hgj mn
 4k
-this is a new file wit try 1
-reygv
-
